@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018156739258",
+    "firebase_url": "https://happydiabetic-81d83.firebaseio.com",
+    "project_id": "happydiabetic-81d83",
+    "storage_bucket": "happydiabetic-81d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018156739258:android:10802937eb3bb1c3",
+        "android_client_info": {
+          "package_name": "com.happydiabetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018156739258-49d5uq1d8s3r8k2k4kgqi2l0rseot05v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVsX9SsOv5rnnkIJMEpRAjwprpCT7pdGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
